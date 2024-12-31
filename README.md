@@ -27,5 +27,5 @@ The genome FASTA files can be downloaded from https://hgdownload.soe.ucsc.edu/do
 # Usage
 
 ```
-python bed2fasta.py 
+python bed2fasta.py input.bed output.fasta genome.fasta
 ```
