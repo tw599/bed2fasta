@@ -20,6 +20,10 @@ Column 5: Blank
 Column 6: Strand (+/-)
 ```
 
+# Files
+
+The genome FASTA files can be downloaded from https://hgdownload.soe.ucsc.edu/downloads.html. 
+
 # Usage
 
 ```
